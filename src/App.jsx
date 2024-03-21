@@ -15,11 +15,3 @@ function App() {
 }
 
 export default App
-
-
-
-// [
-//   {
-//     id: , text: "", completed: true
-//   }
-// ]
